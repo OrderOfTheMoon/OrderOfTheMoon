@@ -8,6 +8,7 @@ My name is Kirill Novikov. I currently live and work in the city of Penza in the
 * ✉️  You can contact me at [kirill1novikov1@gmail.com](mailto:kirill1novikov1@gmail.com)
 
 ### Badges
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/OrderOfTheMoon"><img src="https://github-readme-stats.vercel.app/api?username=OrderOfTheMoon&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&show_icons=true" alt="OrderOfTheMoon's GitHub stats" /></a>
@@ -17,7 +18,12 @@ My name is Kirill Novikov. I currently live and work in the city of Penza in the
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=OrderOfTheMoon)
 
 ### Socials
+<p align="left"> <a href="https://t.me/kirill1novikov1" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="32" height="32" alt="telegram group" /><a href="https://vk.com/orderofthemoon" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="32" height="32" alt="VK Badge"/>
 
+### Skills
+<p align="left"> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+</p>
 
 <!--
 **OrderOfTheMoon/OrderOfTheMoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
