@@ -20,7 +20,7 @@ My name is Kirill Novikov. I currently live and work in the city of Penza in the
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=OrderOfTheMoon)
 
 ### Socials
-<p align="left"> <a href="https://t.me/kirill1novikov1" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="32" height="32" alt="telegram group" /><a href="https://vk.com/orderofthemoon" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="32" height="32" alt="VK Badge"/>
+<p align="left"> <a href="https://t.me/OrderOfTheMoon" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="32" height="32" alt="telegram group" /><a href="https://vk.com/orderofthemoon" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="32" height="32" alt="VK Badge"/>
 
 ### Skills
 <p align="left"> 
