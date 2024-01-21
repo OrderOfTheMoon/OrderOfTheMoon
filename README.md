@@ -5,7 +5,7 @@ My name is Kirill Novikov. I currently live and work in the city of Penza in the
 * 📫 I'm based in Russia, Penza.
 * 😄 Working with texts, a lot, meticulously, necessary.
 * 🌱 See my portfolio at [eLibrary](https://www.elibrary.ru/author_items.asp?authorid=1040607&pubrole=100&show_refs=1&show_option=0), a site for scientific citation of articles by authors of Russia and the CIS.
-* ✉️ You can contact me at [kirill1novikov1@gmail.com](mailto:kirill1novikov1@gmail.com) and [Telegram](https://t.me/kirill1novikov1).
+* ✉️ You can contact me at [E-Mail](mailto:kirill1novikov1@gmail.com) and [Telegram](https://t.me/kirill1novikov1).
 * 🧠 I'm currently passionate about exploring the possibilities of machine learning.
 * 🌍 I speak a little English, but I try to devote a little time to it every day to keep up the learning process.
 * 🔭 I am always open to new acquaintances, write if I interest you, I will be very happy about it.
