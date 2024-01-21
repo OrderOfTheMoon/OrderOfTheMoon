@@ -1,5 +1,6 @@
 ### Hi! Welcome to my profile!
 =======================================================================================================================================
+
 My name is Kirill Novikov. I currently live and work in the city of Penza in the Russian Federation. Now I am a specialist in technical support for business clients, and I am also a member of the initiative group for updating the company’s knowledge base. I love learning new technologies and putting them into practice to improve the user experience.
 * - I'm based in Russia, Penza
 * - Working with texts, a lot, meticulously, necessary
